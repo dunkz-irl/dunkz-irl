@@ -1,4 +1,8 @@
-## Hi there 👋
+## Duncan Gallagher
+
+Hi, I'm Duncan and I'm a games programmer.
+
+Here you'll mostly find portfolio things and game jams. Check out my [website](https://duncangallagher.net) for more cool stuff, including my work as a musician :D
 
 <!--
 **dunkz-irl/dunkz-irl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
